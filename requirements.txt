@@ -1,0 +1,8 @@
+Package             Version
+------------------- -------
+ariadne             0.11.0 
+Django              3.0.6  
+django-cors-headers 3.2.1  
+graphql-core        3.0.4  
+python-dateutil     2.8.1  
+pytz                2020.1 
